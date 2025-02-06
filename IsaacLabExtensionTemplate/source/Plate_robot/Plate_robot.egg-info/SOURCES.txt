@@ -1,0 +1,9 @@
+setup.py
+Plate_robot/__init__.py
+Plate_robot/ui_extension_example.py
+Plate_robot.egg-info/PKG-INFO
+Plate_robot.egg-info/SOURCES.txt
+Plate_robot.egg-info/dependency_links.txt
+Plate_robot.egg-info/not-zip-safe
+Plate_robot.egg-info/requires.txt
+Plate_robot.egg-info/top_level.txt
